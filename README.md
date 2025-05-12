@@ -76,6 +76,8 @@ module Ex7(j, k, clk, rst, q, qbar);
      end
      end    
      endmodule
+
+     
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2025-05-12 085919](https://github.com/user-attachments/assets/d735ed45-18f3-42a0-9147-d0dbac00091a)
